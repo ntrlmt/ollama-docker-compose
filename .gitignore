@@ -1,0 +1,11 @@
+*.~
+*~
+*.pyc
+*.swp
+*.idea
+*.vscode
+
+.env
+
+./ollama
+./.ollama
